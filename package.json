@@ -1,0 +1,9 @@
+{
+    "name": "07-Omnifood-Desktop",
+    "version": "1.0.0",
+    "dependencies": {
+    },
+    "prettier": {
+        "tabWidth": 4
+    }
+}
